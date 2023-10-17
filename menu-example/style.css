@@ -13,7 +13,7 @@
   --nav-bg: #03000e;
   --main-clr: rgb(50, 78, 207);
   --nav-shadow: 0px 3px var(--main-clr);
-  --font-size: 14px;
+  --font-size: 16px;
   --padding: 20px;
   --height: 0px;
 }
@@ -30,7 +30,7 @@ nav {
 nav .logo {
   color: #fff;
   text-decoration-color: var(--main-clr);
-  font-size: 22px;
+  font-size: 24px;
 }
 
 nav ul {
